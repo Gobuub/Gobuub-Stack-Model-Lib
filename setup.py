@@ -11,7 +11,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Enrique Revuelta Garcia",
     author_email="enrique.revuelta@enriquerevueltagarcia.com",
-    url="http://www.enriquerevueltagarcia.com",
+    url="https://github.com/Gobuub/Gobuub-Stack-Model-Lib",
     packages=find_packages(),
     scripts=[]
 )
