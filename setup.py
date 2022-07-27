@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="Gobuubstackmodel",
-    version="0.1",
+    version="0.2",
     description="Personal Python lib for used for EDA's and train ML models",
     long_description=long_description,
     long_description_content_type="text/markdown",
